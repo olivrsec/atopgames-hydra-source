@@ -1,4 +1,4 @@
-## Atop Games Hydra Source (Improved version)
+## [Atop Games](https://atopgames.com/) [Hydra](https://github.com/hydralauncher/hydra) Source (Improved version)
 
 # Usage - English
 
