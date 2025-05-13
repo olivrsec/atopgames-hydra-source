@@ -1,8 +1,8 @@
-## [Atop Games](https://atopgames.com/) [Hydra](https://github.com/hydralauncher/hydra) Source (Improved version)
+## [Atop Games](https://atopgames.com/) Hydra Source (Improved version)
 
 # Usage - English
 
-Open the [raw file](https://raw.githubusercontent.com/olivrsec/atopgames-hydra-source/refs/heads/main/atopgames.json), copy the link, go to Hydra settings, then to **Download sources**. Click on the **Add source** button and insert the copied link.
+Open the [raw file](https://raw.githubusercontent.com/olivrsec/atopgames-hydra-source/refs/heads/main/atopgames.json), copy the link, go to [Hydra](https://github.com/hydralauncher/hydra) settings, then to **Download sources**. Click on the **Add source** button and insert the copied link.
 
 
 # Usage - Russian
